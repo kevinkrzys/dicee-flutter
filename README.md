@@ -14,6 +14,10 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
+## My Addition
+
+You can now shake your phone to roll the dice!!!
+
 ## What you will learn
 
 - How to use Flutter stateless widgets to design the user interface.
